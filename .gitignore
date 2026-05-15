@@ -1,0 +1,7 @@
+.env
+data/partners/*.db
+data/partners/*.json
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml
